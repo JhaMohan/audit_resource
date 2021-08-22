@@ -9,6 +9,7 @@ https://solidity-by-example.org/</p>
 https://docs.soliditylang.org/</p>
 https://ethereum.org/en/learn/</p>
 https://ethernaut.openzeppelin.com/</p>
+https://www.youtube.com/watch?v=LLiJK_VeAvQ</p>
 
 <h2>Auditing Approach</h2>
 <p>- Read about the project to get an idea of what the smart contracts are meant to do. Glance over all the resources about the project that were made available to you.</p>
